@@ -1,4 +1,4 @@
 # Single-Field-Credit-Card-input-Pattern
 Single-Field Credit Card input Pattern Like Stripe
 Designed By Aliyu Muhammad Butu
-aliyumuhamamdbutu@gmail.com
+aliyumuhammadbutu@gmail.com
